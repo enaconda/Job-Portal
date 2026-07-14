@@ -1,4 +1,4 @@
-# Admin Panel — What was added & how to run
+# Admin Panel - What was added & how to run
 
 This document covers the admin panel and demo-login additions layered on top of
 your existing MERN job portal. Nothing in the original student/recruiter flow was
